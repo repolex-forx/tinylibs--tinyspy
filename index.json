@@ -1,0 +1,11 @@
+{
+  "org": "tinylibs",
+  "repo": "tinyspy",
+  "versions": [
+    {
+      "commit": "3d2c9c8550061066a07cfb5c6e97f73e544675a5",
+      "tag": "v4.0.6",
+      "parsed_at": "2026-11-06T03:11:37.562077+00:00"
+    }
+  ]
+}
