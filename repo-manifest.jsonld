@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tinylibs/tinyspy/commit/3d2c9c8550061066a07cfb5c6e97f73e544675a5",
       "git:hexsha": "3d2c9c8550061066a07cfb5c6e97f73e544675a5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v4.0.6"
     },
     {
